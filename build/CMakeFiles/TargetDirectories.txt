@@ -1,0 +1,3 @@
+/home/konstantin/projects/c/raidix_dictionary/build/CMakeFiles/rebuild_cache.dir
+/home/konstantin/projects/c/raidix_dictionary/build/CMakeFiles/edit_cache.dir
+/home/konstantin/projects/c/raidix_dictionary/build/CMakeFiles/dictionary_EProject.dir
